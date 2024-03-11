@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aditya Swami</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adityaswami05" alt="adityaswami05" /></a> </p>
-
 - 🔭 I’m currently working on [attendance based on Facial Recognition](https://github.com/Adityaswami05/Face-recognition-using-open-cv)
 
 - 🌱 I’m currently learning **DL**
@@ -29,4 +27,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adityaswami05&show_icons=true&locale=en" alt="adityaswami05" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adityaswami05&" alt="adityaswami05" /></p>
-
