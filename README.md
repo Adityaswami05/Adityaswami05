@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditya Swami</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate AI ML enthusiast from India</h3>
 
 - 🔭 I’m currently working on [attendance based on Facial Recognition](https://github.com/Adityaswami05/Face-recognition-using-open-cv)
 
