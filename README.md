@@ -3,13 +3,9 @@
 
 - 🔭 I’m currently working on [attendance based on Facial Recognition](https://github.com/Adityaswami05/Face-recognition-using-open-cv)
 
-- 🌱 I’m currently learning **DL**
+- 🌱 I’m currently learning **NLP**
 
-- 👯 I’m looking to collaborate on **AI/ML and DL**
-
-- 🤝 I’m looking for help with **DL**
-
-- 💬 Ask me about **DL**
+- 👯 I’m looking to collaborate on **AI/ML,DL & NLP**
 
 - 📫 How to reach me **DM**
 
