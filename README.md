@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm Aditya Swami</h1>
-<h3 align="center">A passionate AI ML enthusiast</h3>
+<h3 align="center">A Passionate AI & ML Enthusiast</h3>
 
 - 🔭 I’m currently working on [Voice_Pipeline](https://github.com/Adityaswami05/Voice_Pipeline)
 
-- 🌱 I’m currently learning **NLP**
+- 🤖 I’m currently learning **NLP**
 
 - 👯 I’m looking to collaborate on **AI/ML,DL & NLP**
-
-- 📫 How to reach me **DM**
+  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
