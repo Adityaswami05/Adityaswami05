@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aditya Swami</h1>
 <h3 align="center">A Passionate AI & ML Enthusiast</h3>
 
-- 🔭 I’m currently working on [Voice_Pipeline](https://github.com/Adityaswami05/Voice_Pipeline)
+- 🔭 I’m currently working on NLP Projects
 
 - 🤖 I’m currently learning **NLP**
 
