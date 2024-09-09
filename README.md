@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on NLP Projects
 
-- 🤖 I’m currently learning **NLP**
-
 - 👯 I’m looking to collaborate on **AI/ML,DL & NLP**
   
 
